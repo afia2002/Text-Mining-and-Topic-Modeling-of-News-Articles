@@ -1,2 +1,1 @@
-# Text-Mining-and-Topic-Modeling-of-News-Articles
-DataScience Project
+This R project analyzes text data from a collection of articles in dailystar_articles.csv. It performs text preprocessing (lowercase, symbol removal, stopword elimination, stemming), creates a term-document matrix, and conducts exploratory analysis with a word cloud and bar chart of the top 20 frequent words. The project also applies Latent Dirichlet Allocation (LDA) for topic modeling, identifying key themes and saving top terms and document-topic distributions to CSV files. Visualizations include word clouds and bar plots for frequent words and topic terms. Built with R packages like tm, topicmodels, and ggplot2.
